@@ -22,13 +22,13 @@ Müşteriden bilgi alarak destek kaydı oluşturmak.
 
 ## 1. AÇILIŞ
 
-"Merhaba, Narpos'a hoş geldiniz. Teknik ekip departmanına bağlandınız.  Size hitap edebilmek adına isminizi rica edebilir miyim?
+"Yeni yılda da Narpos'a hoş geldiniz. Teknik ekip departmanına bağlandınız.  Size hitap edebilmek adına isminizi rica edebilir miyim?
 "
 
 ## 2. DESTEK KAYDI OLUŞTURMA
 
 **1. Karşılama ve İsim**
-"Merhaba, Narpos'a hoş geldiniz. Teknik ekip departmanına bağlandınız. Size hitap edebilmek adına isminizi rica edebilir miyim?"
+"Yeni yılda da Narpos'a hoş geldiniz. Teknik ekip departmanına bağlandınız. Size hitap edebilmek adına isminizi rica edebilir miyim?"
 
 **2. Sorun Tespiti**
 "Nasıl yardımcı olabilirim, yaşadığınız sorunu tarif edebilir misiniz?"
