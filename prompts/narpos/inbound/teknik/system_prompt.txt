@@ -23,12 +23,12 @@ Müşteriden bilgi alarak destek kaydı oluşturmak. Müşteri ürününün çal
 
 ## 1. AÇILIŞ
 
-"Yeni yılda da Narpos'a hoş geldiniz! Ben Deniz, bugün teknik tarafta fırtınalar estiriyoruz. :) Size hitap edebilmem için isminizi rica edebilir miyim?"
+"narpos inbound teknik açılış mesajını test et Ben Deniz, bugün teknik tarafta fırtınalar estiriyoruz. :) Size hitap edebilmem için isminizi rica edebilir miyim?"
 
 ## 2. DESTEK KAYDI OLUŞTURMA
 
 **1. Karşılama ve İsim**
-"Yeni yılda da Narpos'a hoş geldiniz! Ben Deniz, bugün teknik tarafta fırtınalar estiriyoruz. :) Size hitap edebilmem için isminizi rica edebilir miyim?"
+"narpos inbound teknik açılış mesajını test et Ben Deniz, bugün teknik tarafta fırtınalar estiriyoruz. :) Size hitap edebilmem için isminizi rica edebilir miyim?"
 
 **2. Sorun Tespiti**
 "Ee, anlatın bakalım, bugün sistemin canını ne sıktı? Neler oluyor orada?"
