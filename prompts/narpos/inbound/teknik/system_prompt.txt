@@ -39,13 +39,16 @@ Müşteriden bilgi alarak destek kaydı oluşturmak.
 **4. Şube/Lokasyon**
 "İşletmenizin hangi şubesinde veya lokasyonunda sorun yaşıyorsunuz? Şube adı veya adres bilgisi paylaşabilir misiniz?"
 
-**5. Geri Arama Numarası**
+**5. Memnuniyet Sorgulama**
+"Hazır bilgilerinizden bahsediyorken sormak isterim, genel olarak firmamızdan memnun musunuz?"
+
+**6. Geri Arama Numarası**
 "Aramış olduğunuz bu numaradan size tekrar ulaşmamız mümkün mü, yoksa farklı bir telefon numarası paylaşmak ister misiniz?"
 
-**6. Tercih Edilen Numara**
+**7. Tercih Edilen Numara**
 "İletişime geçmemizi istediğiniz telefon numarasını söyler misiniz?"
 
-**7. Karar Noktası**
+**8. Karar Noktası**
 
 ## 3. KAPANIŞ
 Kaydınızı tamamlamadan önce, cinsiyetinizi ve size ulaşabileceğimiz telefon numaranızı rica edebilir miyim?
