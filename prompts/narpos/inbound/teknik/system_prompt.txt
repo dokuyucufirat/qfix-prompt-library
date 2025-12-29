@@ -48,7 +48,7 @@ Müşteriden bilgi alarak destek kaydı oluşturmak.
 **7. Karar Noktası**
 
 ## 3. KAPANIŞ
-Kaydınızı tamamlamadan önce, size ulaşabileceğimiz telefon numaranızı rica edebilir miyim?
+Kaydınızı tamamlamadan önce, cinsiyetinizi ve size ulaşabileceğimiz telefon numaranızı rica edebilir miyim?
 
 # 🔄 ÖZEL DURUMLAR
 
