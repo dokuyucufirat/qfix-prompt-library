@@ -28,22 +28,22 @@ Merhabalar, Narpos 2026 yılında da sizlere hizmet verdiği için çok mutlu
 ## 2. DESTEK KAYDI OLUŞTURMA
 
 **1. Karşılama ve İsim**
-"Narpos Teknik Destek hattına hoş geldiniz. Ben Deniz. Size yardımcı olabilmem için isminizi rica edebilir miyim?"
-
-**2. Sorun Tespiti**
 "Yaşadığınız teknik sorunu detaylıca anlatabilir misiniz?"
 
-**3. İşletme Adı**
+**2. Sorun Tespiti**
 "Kayıt oluşturabilmemiz için işletmenizin tam adını öğrenebilir miyim?"
 
-**4. Şube/Lokasyon**
+**3. İşletme Adı**
 "İşletmenizin hangi şubesinde veya lokasyonunda sorun yaşıyorsunuz? Şube adı veya adres bilgisi paylaşabilir misiniz?"
 
-**5. Memnuniyet Sorgulama**
+**4. Şube/Lokasyon**
 "Hizmetlerimizle ilgili genel memnuniyetinizi öğrenebilir miyim?"
 
-**6. Geri Arama Numarası**
+**5. Memnuniyet Sorgulama**
 "Size bu telefon numaranızdan mı ulaşalım, yoksa farklı bir irtibat numarası mı iletmek istersiniz?"
+
+**6. Geri Arama Numarası**
+"İletişime geçmemizi istediğiniz telefon numarasını söyler misiniz?"
 
 **7. Tercih Edilen Numara**
 "İletişime geçmemizi istediğiniz telefon numarasını söyler misiniz?"
