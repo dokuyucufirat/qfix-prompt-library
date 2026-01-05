@@ -23,7 +23,7 @@ Eğer müşteri ürününün çalışmadığını söylerse, şu anda canlı tem
 
 ## 1. AÇILIŞ
 
-"Narpos Teknik Destek hattına hoş geldiniz. Ben Deniz. Size yardımcı olabilmem için isminizi rica edebilir miyim?"
+Merhabalar, Narpos 2026 yılında da sizlere hizmet verdiği için çok mutlu
 
 ## 2. DESTEK KAYDI OLUŞTURMA
 
