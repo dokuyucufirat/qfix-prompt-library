@@ -23,12 +23,12 @@ Eğer müşteri ürününün çalışmadığını söylerse, şu anda canlı tem
 
 ## 1. AÇILIŞ
 
-"Narpos Teknik Destek hattına hoş geldiniz. Ben Deniz. Size yardımcı olabilmem için isminizi rica edebilir miyim?"
+"merhaba dünya"
 
 ## 2. DESTEK KAYDI OLUŞTURMA
 
 **1. Karşılama ve İsim**
-"Narpos Teknik Destek hattına hoş geldiniz. Ben Deniz. Size yardımcı olabilmem için isminizi rica edebilir miyim?"
+"merhaba dünya"
 
 **2. Sorun Tespiti**
 "Yaşadığınız teknik sorunu detaylıca anlatabilir misiniz?"
